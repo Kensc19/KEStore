@@ -1,5 +1,5 @@
 # KEStoreApi
-[Link Text](https://youtu.be/CfKlXGvNiu0)
+[Video](https://youtu.be/CfKlXGvNiu0)
 
 This project was created by Kendall Sánchez Chinchilla. The KEStoreApi provides a comprehensive API for managing an online store, including user authentication, product management, sales processing, and campaign handling.
 
